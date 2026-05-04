@@ -1,6 +1,3 @@
-### Hello! 👋
-
-I am a computer science student in Tampere University! I have knowledge on C++, Java, Javascript, Node.js, Python and SQL.
 
 <!--
 **dada-ada/dada-ada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
